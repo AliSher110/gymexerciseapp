@@ -1,4 +1,4 @@
-##Short description
+## Short description
 It is an exercise app, which shows us multiple exercises and shows us how to perform them.
 It is created React js and tailwind css.
 The exercise data is coming from an rest Api.
@@ -7,14 +7,14 @@ The exercise data is coming from an rest Api.
 ![1](https://user-images.githubusercontent.com/109715275/219408987-aefc4cdd-4489-439f-ab1a-71ac4851396a.png)
 
 # Components
-##Menu/Catagory Component
+## Menu/Catagory Component
 ![2](https://user-images.githubusercontent.com/109715275/219409850-372d2a06-8c05-4fe4-924c-3f1409b1b98b.png)
 
-##Exercise Component
+## Exercise Component
 It is updated by choosing exercises from exercise list and gif image is displayed here to show how to perform that workout/exercise.
 ![3](https://user-images.githubusercontent.com/109715275/219409895-f6961ce1-4184-4784-974c-fbfd40157f22.png)
 
-##Exercise list Components
+## Exercise list Components
 It is Updated by selecting catagery or ecercise type from exercise menu at the left sidd of screen.
 ![4](https://user-images.githubusercontent.com/109715275/219409938-05d2d102-2021-4749-9412-ce7920ea2135.png)
 
