@@ -1,6 +1,6 @@
 ## Short description
 It is an exercise app, which shows us multiple exercises and shows us how to perform them.
-It is created React js and tailwind css.
+It is created with React js and tailwind css.
 The exercise data is coming from an rest Api.
 
 # Main Preview
